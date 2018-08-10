@@ -1,0 +1,66 @@
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\csc.exe
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\vbc.exe
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\VBCSCompiler.exe
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\WebApplication16.dll.config
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\WebApplication16.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\WebApplication16.pdb
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Helpers.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Mvc.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Razor.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.Deployment.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.Razor.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Razor.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.Deployment.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Webpages.Razor.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Helpers.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\bin\System.Web.Mvc.xml
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\obj\Debug\WebApplication16.csprojResolveAssemblyReference.cache
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\obj\Debug\WebApplication16.dll
+c:\users\asp\documents\visual studio 2015\Projects\WebApplication16\WebApplication16\obj\Debug\WebApplication16.pdb
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\csc.exe
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\vbc.exe
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\VBCSCompiler.exe
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\WebApplication16.dll.config
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\WebApplication16.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\WebApplication16.pdb
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Helpers.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Mvc.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Razor.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.Deployment.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.Razor.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Razor.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.Deployment.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Webpages.Razor.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Helpers.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\bin\System.Web.Mvc.xml
+C:\Users\asp\Documents\GitHub\web\WebApplication16\obj\Debug\WebApplication16.csprojResolveAssemblyReference.cache
+C:\Users\asp\Documents\GitHub\web\WebApplication16\obj\Debug\WebApplication16.dll
+C:\Users\asp\Documents\GitHub\web\WebApplication16\obj\Debug\WebApplication16.pdb
